@@ -1,0 +1,11 @@
+.navbar-custom {
+    background-color: #009CA6;
+}
+
+.dropdown-item:hover{
+    background-color: #D62598;
+}
+
+.nav-item:hover{
+    background-color: #D62598;
+}
